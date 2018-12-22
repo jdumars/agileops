@@ -1,4 +1,4 @@
-**Agile Ops - the process:**
+*Agile Ops - the process:*
 
 **HIGH LEVEL:**
 
