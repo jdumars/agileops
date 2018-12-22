@@ -1,3 +1,5 @@
+**Note:** This is the culmination of years of work managing and optimizing the practice of technical operations groups/DevOps at scale. These are proven tactics and techniques that can be applied across any technical value delivery organization of any size to increase efficiency, satisfaction, and enterprise agility. While I had hoped to write a book on this eventually (see the [outline](outline.md) for what that would have looked like), I do not have the time to do so, and yet these topics are extremely relevant especially as the cloud native revolution takes hold. This is not a replacement of DevOps, but instead the overarching framework that DevOps is a part of. 
+
 # Agile Operations Implementation Overview:
 
 ## **HIGH LEVEL:**
@@ -17,7 +19,7 @@
 1.  begin creating customer relationships with dev teams, discuss level of ownership and autonomy the group needs, SLA, escalation, and a plan to create sustainable patterns around the tech (ops can't do it all, so how is it going to get done?  is the team on call?  are common tasks automated or scripted? etc.)
 1.  Get an ops-oriented PO who is managing the various backlogs and acting as a liaison to the business and other POs
 1.  Get good at organization and make planning meetings very focused, standups based around the kanban boards for the initiatives
-1.  make sure system stability and architecture (SS&A) work is prioritized because it is a huge part of building trust and morale in ops, always allocate at least a pair to this at all times
+1.  make sure self service and automation (SS&A) work is prioritized because it is a huge part of building trust and morale in ops, always allocate at least a pair to this at all times
 1.  build out the backlogs further and start seeing what velocity and % of interrupts are happening, and adjust staff as needed
 1.  begin integrating external devs into feature development, and begin the process of distributing information
 1.  maturity assessment of all technologies
