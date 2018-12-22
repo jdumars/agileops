@@ -31,7 +31,7 @@
 
 ## **IDD/FDD HIGH LEVEL:**
 
-[Link to presentation on IDD](./IDD_presentation.pdf)
+[Link to presentation on IDD](./IDD_Presentation.pdf)
 
 1. Just Enough Design Initially (JEDI) -- architectural planning and spikes necessary to complete the iteration (not feature) with minimal rework
 
