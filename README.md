@@ -1,6 +1,6 @@
-*Agile Ops - the process:*
+# Agile Ops - the process:*
 
-**HIGH LEVEL:**
+## **HIGH LEVEL:**
 
 1.  We're all engineers -- begin culture shift toward a united engineering front, focus on infrastructure engineering, big teams are ok!  
 1.  Buffer interrupts!  Establish Persons of the Week, on-call rotation, direct monitoring and emails only to those who should do something about it, protect the team
@@ -9,7 +9,7 @@
 1.  Get a handle on the infrastructure from the Plan/Build/Run perspective
 1.  Manage, staff and grow as required
 
-**SPECIFICS:**
+## **SPECIFICS:**
 
 1.  align dev and ops resources either as a team or teams that participate on IDD projects, no organizational silos, establish engineering as the primary competency -- differentiate as an organization operations as an umbrella, but positions within it being engineering, support, administration, testing, etc.
 1.  create appropriate backlogs for:  business projects (business planned work), interrupt tasks (PoTW), automation and self-service (for dev team customers)
@@ -29,7 +29,9 @@
 1.  Encourage everyone in ops to learn an object-oriented language such as Ruby, Go, Python, PHP or Java.
 1.  Ensure that a culture of mastery develops and that even juniors can be feature leads
 
-**IDD/FDD HIGH LEVEL:**
+## **IDD/FDD HIGH LEVEL:**
+
+[Link to presentation on IDD](./IDD_presentation.pdf)
 
 1. Just Enough Design Initially (JEDI) -- architectural planning and spikes necessary to complete the iteration (not feature) with minimal rework
 
@@ -45,10 +47,9 @@
 
 7. Teams can become customers as well, meaning a IDD/FDD team may need an infrastructure feature in order to deliver, and this may constitute another team.  We don't care who the customer is, necessarily, only that we treat them all the same and with the same level of care
 
-**INFRASTRUCTURE MATURITY:**
+## **INFRASTRUCTURE MATURITY:**
 
-deep analysis...
-
+**Vector analysis:**
 
 <table>
   <tr>
@@ -149,9 +150,7 @@ deep analysis...
   </tr>
 </table>
 
-
-aggregate analysis...
-
+**Aggregate analysis:**
 
 <table>
   <tr>
@@ -193,7 +192,7 @@ aggregate analysis...
 </table>
 
 
-**AGILE ARCHITECTURE:**
+## **AGILE ARCHITECTURE:** ##
 
 1.  Focused on establishing patterns that increase engineering and operational agility
 1.  Provides a lowest-cost way of exploring new technologies through prototyping and research
