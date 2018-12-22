@@ -8,7 +8,7 @@
     *   Leveraging Agile practices in an interrupt-driven environment
     *   The Agile Manifesto for ops
     *   The two-way street of shared practices
-    *   High-level view of IDD
+    *   High-level view of [IDD](IDD_Presentation.pdf)
     *   Supporting roles
     *   A different definition of the customer
     *   AgileOps features are not just software
@@ -57,7 +57,7 @@
 1.  Supporting roles in an Agile Operations group 
     *   The Operations PO
     *   "scrum master"
-    *   feature lead (will have more detail in chapter 9)
+    *   feature lead - see [IDD](IDD_Presentation.pdf)
     *   team architect
     *   Team-level host leadership
     *   Agile coach
