@@ -5,7 +5,7 @@
 ## **HIGH LEVEL:**
 
 1.  Start with *We're all engineers* -- begin culture shift toward a united engineering front, focus on infrastructure engineering, big teams are ok!  
-1.  Buffer interrupts!  Establish Persons of the Week, on-call rotation, direct monitoring and emails only to those who should do something about it, protect the team
+1.  Buffer interrupts!  Establish Persons of the Week (PoTW), on-call rotation, direct monitoring and emails only to those who should do something about it, protect the team
 1.  Create a sustainable model for planned work (IDD -  Infrastructure Driven Development), begin establishing engineering credibility with the business and customers
 1.  Build backlogs of planned work - business owners/dev customers/internal
 1.  Get a handle on the infrastructure from the Plan/Build/Run perspective
